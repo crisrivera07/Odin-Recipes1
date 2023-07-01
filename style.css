@@ -1,0 +1,25 @@
+.heading {
+  font-size:60;
+  font-family: Arial;
+  text-align: center;
+  border-style:solid;
+  height: 60px;
+  width: 1900px;
+  border-color: navy;
+  color:orangered;
+  background-color:transparent;
+}
+
+.latest-title {
+  font-size: 20px;
+  font-family: Arial;
+  color: rgb(255, 81, 0);
+}
+
+.recipes {
+  color: navy;
+  font-family: Arial;
+  text-decoration: none;
+  padding: 3px 40px 3px 40px;
+}
+
